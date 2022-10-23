@@ -16,11 +16,11 @@
 
 |Concepto|Definición|
 |-|-|
-|`Aula Virtual`||
-|`Software educativo`||
-|`Software libre`||
-|`Software gratuito` (Freeware)||
-|`Software abierto` (Open Source)||
+|`Aula Virtual`|Un aula virtual es el **entorno digital** en el que se lleva a cabo el intercambio de conocimientos que hace posible el aprendizaje.<br>En otras palabras, un aula virtual de formación **es el espacio, dentro de la plataforma e-learning, donde profesores y alumnos comparten contenidos en tiempo real**, y en el que se atienden consultas, dudas y evaluaciones de los participantes.<br>Como tal, **no tiene límites físicos** ni (siempre) temporales. El alumno puede acceder a ella cuando quiera para tomar sus clases, sin tener que estar sujeto a desplazamientos físicos.<br>En cualquier caso, **puede usarse tanto para la educación a distancia o como complemento de una clase presencial.** |
+|`Software educativo`|**Software** es un término que hace referencia a un **programa informático**. Estas herramientas tecnológicas disponen de distintas aplicaciones que posibilitan la ejecución de una variada gama de tareas en un **ordenador (computadora)**.<br>**Educativo**, por su parte, es aquello vinculado a la educación (la instrucción, formación o enseñanza que se imparte). El adjetivo también se utiliza para nombrar a **lo que permite educar**.<br>A partir de estas definiciones, podemos indicar que un **software educativo** es un programa informático que se emplea para **educar al usuario**. Esto quiere decir que el software educativo es una **herramienta pedagógica o de enseñanza** que, por sus características, ayuda a la adquisición de **conocimientos** y al desarrollo de habilidades.|
+|`Software libre`|Este término **se utiliza para designar aquel software que respeta la libertad de los usuarios** sobre el producto adquirido, es decir, que una vez obtenido, **este puede ser ejecutado, copiado, adaptado, modificado y redistribuido libremente.**|
+|`Software gratuito` (Freeware)|**El software gratuito o freeware es aquel software que puedes obtener sin coste**, es decir, utilizarlo de manera gratuita, **pero no con las mismas condiciones que el software libre**, puesto que este no respeta las quatro libertades básicas del software libre.<br>Un ejemplo de software gratuito es Adobe Reader o Skype. También encontramos en ocasiones que los desarrolladores de juegos vuelven a lanzar juegos antiguos como freeware, lo que significa que todavía mantienen el código en secreto, pero el juego es ahora gratis para jugar.|
+|`Software abierto` (Open Source)|El **software de código abierto u Open Source es aquel código fuente publicado bajo una licencia que permite su uso, modificación o redistribución** (en algunas ocasiones, no siempre) **de forma libre**.|
 
 ## ¿Qué es una plataforma educativa virtual?
 
@@ -100,7 +100,7 @@ sistema de almacenaje y tramitación de archivos que buscan desarrollar operacio
 ### LCMS
 
 Para entender cómo funcionan los LCMS, Enríquez (2004) plantea que en la actualidad
-la educación está más direccionada en "como aprender" en lugar de "que aprender". Por lo general se fomenta la capacitación de los seres humanos en sus facultades y habilidades que tienden a desarrollar grados de análisis y responsabilidades para encajar luego en el ámbito laboral.
+la educación está más direccionada en _"como aprender"_ en lugar de _"que aprender"_. Por lo general se fomenta la capacitación de los seres humanos en sus facultades y habilidades que tienden a desarrollar grados de análisis y responsabilidades para encajar luego en el ámbito laboral.
 
 El E-learning se plantea como la capacidad de dar enseñanzas en el momento y lugar
 exacto. Los alumnos poseen accesibilidad a un repositorio de conocimientos y; cuando van respondiendo sus preguntas tienden a tener la cantidad de información que le es necesaria, teniendo en cuenta su información previa, formas de aprendizaje y metas, en este momento es que se determina la enseñanza personalizada y flexible. Por ende, se requiere que se genere una evolución de los LMS hacia los LCMS (Learning Content Management Systems) que, se diferencian de los LMS en que están dirigidos a la formulación y administración de contenidos, de una forma pedagógica, de tal manera que da la opción de modificar y llevar a cabo la creación de aprendizajes que sirvan para responder a las necesidades y diseños específicos del conocimiento. (Enríquez , 2004).
